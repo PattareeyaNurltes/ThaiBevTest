@@ -1,0 +1,16 @@
+﻿using System.Net;
+
+namespace Frontend.Models;
+
+public class GeneralResponse<T>
+{
+     public Guid RequestID { get; set; }
+    public bool IsSuccess { get; set; }
+    public HttpStatusCode StatusCode { get; set; }
+    public string Message { get; set; }
+    public string ErrorCode { get; set; }
+    public string ErrorMessage { get; set; }
+    public Dictionary<string, string[]>? ValidationErrors { get; set; }
+    public T? Data { get; set; }
+    public DateTime Timestamp { get; set; } = DateTime.UtcNow; 
+}

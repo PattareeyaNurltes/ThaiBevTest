@@ -1,0 +1,845 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|c:\\users\\personal\\onedrive\\desktop\\tests\\pattareeya_thaibev_test\\testresult\\backend\\backend\\services\\usershadler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|solutionrelative:backend\\services\\usershadler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|c:\\users\\personal\\onedrive\\desktop\\tests\\pattareeya_thaibev_test\\testresult\\backend\\backend\\controllers\\usermanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\usermanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F94D84D-5525-A66F-B0D4-2AED7225D780}|..\\Frontend\\Frontend.csproj|c:\\users\\personal\\onedrive\\desktop\\tests\\pattareeya_thaibev_test\\testresult\\frontend\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F94D84D-5525-A66F-B0D4-2AED7225D780}|..\\Frontend\\Frontend.csproj|c:\\users\\personal\\onedrive\\desktop\\tests\\pattareeya_thaibev_test\\testresult\\frontend\\services\\requestshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F94D84D-5525-A66F-B0D4-2AED7225D780}|..\\Frontend\\Frontend.csproj|c:\\users\\personal\\onedrive\\desktop\\tests\\pattareeya_thaibev_test\\testresult\\frontend\\services\\userprofilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F94D84D-5525-A66F-B0D4-2AED7225D780}|..\\Frontend\\Frontend.csproj|c:\\users\\personal\\onedrive\\desktop\\tests\\pattareeya_thaibev_test\\testresult\\frontend\\views\\accounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F94D84D-5525-A66F-B0D4-2AED7225D780}|..\\Frontend\\Frontend.csproj|c:\\users\\personal\\onedrive\\desktop\\tests\\pattareeya_thaibev_test\\testresult\\frontend\\services\\authenticatehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F94D84D-5525-A66F-B0D4-2AED7225D780}|..\\Frontend\\Frontend.csproj|c:\\users\\personal\\onedrive\\desktop\\tests\\pattareeya_thaibev_test\\testresult\\frontend\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F94D84D-5525-A66F-B0D4-2AED7225D780}|..\\Frontend\\Frontend.csproj|c:\\users\\personal\\onedrive\\desktop\\tests\\pattareeya_thaibev_test\\testresult\\frontend\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F94D84D-5525-A66F-B0D4-2AED7225D780}|..\\Frontend\\Frontend.csproj|c:\\users\\personal\\onedrive\\desktop\\tests\\pattareeya_thaibev_test\\testresult\\frontend\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F94D84D-5525-A66F-B0D4-2AED7225D780}|..\\Frontend\\Frontend.csproj|c:\\users\\personal\\onedrive\\desktop\\tests\\pattareeya_thaibev_test\\testresult\\frontend\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F94D84D-5525-A66F-B0D4-2AED7225D780}|..\\Frontend\\Frontend.csproj|c:\\users\\personal\\onedrive\\desktop\\tests\\pattareeya_thaibev_test\\testresult\\frontend\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F94D84D-5525-A66F-B0D4-2AED7225D780}|..\\Frontend\\Frontend.csproj|c:\\users\\personal\\onedrive\\desktop\\tests\\pattareeya_thaibev_test\\testresult\\frontend\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F94D84D-5525-A66F-B0D4-2AED7225D780}|..\\Frontend\\Frontend.csproj|c:\\users\\personal\\onedrive\\desktop\\tests\\pattareeya_thaibev_test\\testresult\\frontend\\views\\profile\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F94D84D-5525-A66F-B0D4-2AED7225D780}|..\\Frontend\\Frontend.csproj|c:\\users\\personal\\onedrive\\desktop\\tests\\pattareeya_thaibev_test\\testresult\\frontend\\wwwroot\\js\\profileedit.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F94D84D-5525-A66F-B0D4-2AED7225D780}|..\\Frontend\\Frontend.csproj|c:\\users\\personal\\onedrive\\desktop\\tests\\pattareeya_thaibev_test\\testresult\\frontend\\models\\accountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F94D84D-5525-A66F-B0D4-2AED7225D780}|..\\Frontend\\Frontend.csproj|c:\\users\\personal\\onedrive\\desktop\\tests\\pattareeya_thaibev_test\\testresult\\frontend\\models\\generalresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F94D84D-5525-A66F-B0D4-2AED7225D780}|..\\Frontend\\Frontend.csproj|c:\\users\\personal\\onedrive\\desktop\\tests\\pattareeya_thaibev_test\\testresult\\frontend\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F94D84D-5525-A66F-B0D4-2AED7225D780}|..\\Frontend\\Frontend.csproj|c:\\users\\personal\\onedrive\\desktop\\tests\\pattareeya_thaibev_test\\testresult\\frontend\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F94D84D-5525-A66F-B0D4-2AED7225D780}|..\\Frontend\\Frontend.csproj|c:\\users\\personal\\onedrive\\desktop\\tests\\pattareeya_thaibev_test\\testresult\\frontend\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F94D84D-5525-A66F-B0D4-2AED7225D780}|..\\Frontend\\Frontend.csproj|c:\\users\\personal\\onedrive\\desktop\\tests\\pattareeya_thaibev_test\\testresult\\frontend\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F94D84D-5525-A66F-B0D4-2AED7225D780}|..\\Frontend\\Frontend.csproj|c:\\users\\personal\\onedrive\\desktop\\tests\\pattareeya_thaibev_test\\testresult\\frontend\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0079E8FF-35A7-54BD-07F1-139269EC61D4}|..\\ClassLib\\ClassLib.csproj|c:\\users\\personal\\onedrive\\desktop\\tests\\pattareeya_thaibev_test\\testresult\\classlib\\model\\comm\\authentication\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|c:\\users\\personal\\onedrive\\desktop\\tests\\pattareeya_thaibev_test\\testresult\\backend\\backend\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|c:\\users\\personal\\onedrive\\desktop\\tests\\pattareeya_thaibev_test\\testresult\\backend\\backend\\services\\tokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|solutionrelative:backend\\services\\tokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F94D84D-5525-A66F-B0D4-2AED7225D780}|..\\Frontend\\Frontend.csproj|c:\\users\\personal\\onedrive\\desktop\\tests\\pattareeya_thaibev_test\\testresult\\frontend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0079E8FF-35A7-54BD-07F1-139269EC61D4}|..\\ClassLib\\ClassLib.csproj|c:\\users\\personal\\onedrive\\desktop\\tests\\pattareeya_thaibev_test\\testresult\\classlib\\entities\\accounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0079E8FF-35A7-54BD-07F1-139269EC61D4}|..\\ClassLib\\ClassLib.csproj|c:\\users\\personal\\onedrive\\desktop\\tests\\pattareeya_thaibev_test\\testresult\\classlib\\enum\\baseenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0079E8FF-35A7-54BD-07F1-139269EC61D4}|..\\ClassLib\\ClassLib.csproj|c:\\users\\personal\\onedrive\\desktop\\tests\\pattareeya_thaibev_test\\testresult\\classlib\\entities\\logininfomations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Backend\\Backend\\Migrations\\20260309030531_AddAccountProfileTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend\\Migrations\\20260309030531_AddAccountProfileTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0079E8FF-35A7-54BD-07F1-139269EC61D4}|..\\ClassLib\\ClassLib.csproj|c:\\users\\personal\\onedrive\\desktop\\tests\\pattareeya_thaibev_test\\testresult\\classlib\\model\\comm\\register\\registrationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F94D84D-5525-A66F-B0D4-2AED7225D780}|..\\Frontend\\Frontend.csproj|c:\\users\\personal\\onedrive\\desktop\\tests\\pattareeya_thaibev_test\\testresult\\frontend\\wwwroot\\js\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|c:\\users\\personal\\onedrive\\desktop\\tests\\pattareeya_thaibev_test\\testresult\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|c:\\users\\personal\\onedrive\\desktop\\tests\\pattareeya_thaibev_test\\testresult\\backend\\backend\\data\\pattareeyadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|solutionrelative:backend\\data\\pattareeyadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F94D84D-5525-A66F-B0D4-2AED7225D780}|..\\Frontend\\Frontend.csproj|c:\\users\\personal\\onedrive\\desktop\\tests\\pattareeya_thaibev_test\\testresult\\frontend\\services\\registerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F94D84D-5525-A66F-B0D4-2AED7225D780}|..\\Frontend\\Frontend.csproj|c:\\users\\personal\\onedrive\\desktop\\tests\\pattareeya_thaibev_test\\testresult\\frontend\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|c:\\users\\personal\\onedrive\\desktop\\tests\\pattareeya_thaibev_test\\testresult\\backend\\backend\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|c:\\users\\personal\\onedrive\\desktop\\tests\\pattareeya_thaibev_test\\testresult\\backend\\backend\\migrations\\20260309064259_updateaccountprofiletable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|solutionrelative:backend\\migrations\\20260309064259_updateaccountprofiletable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F94D84D-5525-A66F-B0D4-2AED7225D780}|..\\Frontend\\Frontend.csproj|c:\\users\\personal\\onedrive\\desktop\\tests\\pattareeya_thaibev_test\\testresult\\frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|c:\\users\\personal\\onedrive\\desktop\\tests\\pattareeya_thaibev_test\\testresult\\backend\\backend\\services\\registerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|solutionrelative:backend\\services\\registerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F94D84D-5525-A66F-B0D4-2AED7225D780}|..\\Frontend\\Frontend.csproj|c:\\users\\personal\\onedrive\\desktop\\tests\\pattareeya_thaibev_test\\testresult\\frontend\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F94D84D-5525-A66F-B0D4-2AED7225D780}|..\\Frontend\\Frontend.csproj|c:\\users\\personal\\onedrive\\desktop\\tests\\pattareeya_thaibev_test\\testresult\\frontend\\views\\register\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F94D84D-5525-A66F-B0D4-2AED7225D780}|..\\Frontend\\Frontend.csproj|c:\\users\\personal\\onedrive\\desktop\\tests\\pattareeya_thaibev_test\\testresult\\frontend\\models\\profileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F94D84D-5525-A66F-B0D4-2AED7225D780}|..\\Frontend\\Frontend.csproj|c:\\users\\personal\\onedrive\\desktop\\tests\\pattareeya_thaibev_test\\testresult\\frontend\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|c:\\users\\personal\\onedrive\\desktop\\tests\\pattareeya_thaibev_test\\testresult\\backend\\backend\\migrations\\20260303162910_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|solutionrelative:backend\\migrations\\20260303162910_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F94D84D-5525-A66F-B0D4-2AED7225D780}|..\\Frontend\\Frontend.csproj|c:\\users\\personal\\onedrive\\desktop\\tests\\pattareeya_thaibev_test\\testresult\\frontend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|c:\\users\\personal\\onedrive\\desktop\\tests\\pattareeya_thaibev_test\\testresult\\backend\\backend\\services\\basehadler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|solutionrelative:backend\\services\\basehadler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|c:\\users\\personal\\onedrive\\desktop\\tests\\pattareeya_thaibev_test\\testresult\\backend\\backend\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|c:\\users\\personal\\onedrive\\desktop\\tests\\pattareeya_thaibev_test\\testresult\\backend\\backend\\backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|solutionrelative:backend\\backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F94D84D-5525-A66F-B0D4-2AED7225D780}|..\\Frontend\\Frontend.csproj|c:\\users\\personal\\onedrive\\desktop\\tests\\pattareeya_thaibev_test\\testresult\\frontend\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|c:\\users\\personal\\onedrive\\desktop\\tests\\pattareeya_thaibev_test\\testresult\\backend\\backend\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|solutionrelative:backend\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|c:\\users\\personal\\onedrive\\desktop\\tests\\pattareeya_thaibev_test\\testresult\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProfileEdit.js",
+              "DocumentMoniker": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\wwwroot\\js\\ProfileEdit.js",
+              "RelativeDocumentMoniker": "..\\Frontend\\wwwroot\\js\\ProfileEdit.js",
+              "ToolTip": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\wwwroot\\js\\ProfileEdit.js",
+              "RelativeToolTip": "..\\Frontend\\wwwroot\\js\\ProfileEdit.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-09T04:31:32.373Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\Views\\Profile\\Edit.cshtml",
+              "RelativeDocumentMoniker": "..\\Frontend\\Views\\Profile\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\Views\\Profile\\Edit.cshtml",
+              "RelativeToolTip": "..\\Frontend\\Views\\Profile\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-09T06:28:44.907Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\Frontend\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\Frontend\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEEAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-09T07:42:30.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserProfileHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\Services\\UserProfileHandler.cs",
+              "RelativeDocumentMoniker": "..\\Frontend\\Services\\UserProfileHandler.cs",
+              "ToolTip": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\Services\\UserProfileHandler.cs",
+              "RelativeToolTip": "..\\Frontend\\Services\\UserProfileHandler.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAlwB8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T05:38:54.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RequestsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\Services\\RequestsHandler.cs",
+              "RelativeDocumentMoniker": "..\\Frontend\\Services\\RequestsHandler.cs",
+              "ToolTip": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\Services\\RequestsHandler.cs",
+              "RelativeToolTip": "..\\Frontend\\Services\\RequestsHandler.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAkwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T07:09:20.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersHadler.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Backend\\Backend\\Services\\UsersHadler.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\UsersHadler.cs",
+              "ToolTip": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Backend\\Backend\\Services\\UsersHadler.cs",
+              "RelativeToolTip": "Backend\\Services\\UsersHadler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T13:45:37.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "..\\Frontend\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "..\\Frontend\\Controllers\\AccountsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T06:55:44.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserManagementController.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Backend\\Backend\\Controllers\\UserManagementController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\UserManagementController.cs",
+              "ToolTip": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Backend\\Backend\\Controllers\\UserManagementController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\UserManagementController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwB0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T03:34:10.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\Views\\Accounts\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\Frontend\\Views\\Accounts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\Views\\Accounts\\Index.cshtml",
+              "RelativeToolTip": "..\\Frontend\\Views\\Accounts\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-10T03:10:08.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\Frontend\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\Frontend\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T07:57:23.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "..\\Frontend\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "..\\Frontend\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T03:20:11.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthenticateHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\Services\\AuthenticateHandler.cs",
+              "RelativeDocumentMoniker": "..\\Frontend\\Services\\AuthenticateHandler.cs",
+              "ToolTip": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\Services\\AuthenticateHandler.cs",
+              "RelativeToolTip": "..\\Frontend\\Services\\AuthenticateHandler.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAApwFIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T03:55:21.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "..\\Frontend\\Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "..\\Frontend\\Controllers\\ProfileController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T07:00:11.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "..\\Frontend\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "..\\Frontend\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-10T03:27:53.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "..\\Frontend\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "..\\Frontend\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-10T03:28:08.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AccountViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\Models\\AccountViewModel.cs",
+              "RelativeDocumentMoniker": "..\\Frontend\\Models\\AccountViewModel.cs",
+              "ToolTip": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\Models\\AccountViewModel.cs",
+              "RelativeToolTip": "..\\Frontend\\Models\\AccountViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T03:21:04.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GeneralResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\Models\\GeneralResponse.cs",
+              "RelativeDocumentMoniker": "..\\Frontend\\Models\\GeneralResponse.cs",
+              "ToolTip": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\Models\\GeneralResponse.cs",
+              "RelativeToolTip": "..\\Frontend\\Models\\GeneralResponse.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T03:20:16.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "..\\Frontend\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "..\\Frontend\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-09T07:42:30.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "..\\Frontend\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "..\\Frontend\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAABEAAAAAAAAAAAAewCEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-09T03:59:44.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "..\\Frontend\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "..\\Frontend\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-10T02:20:29.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\Frontend\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "..\\Frontend\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-09T02:52:25.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Login.js",
+              "DocumentMoniker": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\wwwroot\\js\\Login.js",
+              "RelativeDocumentMoniker": "..\\Frontend\\wwwroot\\js\\Login.js",
+              "ToolTip": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\wwwroot\\js\\Login.js",
+              "RelativeToolTip": "..\\Frontend\\wwwroot\\js\\Login.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-09T02:35:05.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "..\\Frontend\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "..\\Frontend\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAADwvywAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T06:56:34.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\ClassLib\\Model\\Comm\\Authentication\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "..\\ClassLib\\Model\\Comm\\Authentication\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\ClassLib\\Model\\Comm\\Authentication\\LoginResponse.cs",
+              "RelativeToolTip": "..\\ClassLib\\Model\\Comm\\Authentication\\LoginResponse.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T13:46:20.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\Frontend\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\Frontend\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-05T06:34:15.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Backend\\Backend\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Backend\\Backend\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAUwDsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T03:55:21.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TokenHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Backend\\Backend\\Services\\TokenHandler.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\TokenHandler.cs",
+              "ToolTip": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Backend\\Backend\\Services\\TokenHandler.cs",
+              "RelativeToolTip": "Backend\\Services\\TokenHandler.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAvwGMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T07:43:43.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Backend\\Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Backend\\Program.cs",
+              "ToolTip": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Backend\\Backend\\Program.cs",
+              "RelativeToolTip": "Backend\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T15:11:11.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PattareeyaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Backend\\Backend\\Data\\PattareeyaDbContext.cs",
+              "RelativeDocumentMoniker": "Backend\\Data\\PattareeyaDbContext.cs",
+              "ToolTip": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Backend\\Backend\\Data\\PattareeyaDbContext.cs",
+              "RelativeToolTip": "Backend\\Data\\PattareeyaDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T14:28:04.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RegisterHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\Services\\RegisterHandler.cs",
+              "RelativeDocumentMoniker": "..\\Frontend\\Services\\RegisterHandler.cs",
+              "ToolTip": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\Services\\RegisterHandler.cs",
+              "RelativeToolTip": "..\\Frontend\\Services\\RegisterHandler.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T14:54:29.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "..\\Frontend\\Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "..\\Frontend\\Controllers\\RegisterController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAD4vxkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T06:03:50.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Backend\\Backend\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Backend\\Backend\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\RegisterController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAYwB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T07:00:35.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20260309064259_UpdateAccountProfileTable.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Backend\\Backend\\Migrations\\20260309064259_UpdateAccountProfileTable.cs",
+              "RelativeDocumentMoniker": "Backend\\Migrations\\20260309064259_UpdateAccountProfileTable.cs",
+              "ToolTip": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Backend\\Backend\\Migrations\\20260309064259_UpdateAccountProfileTable.cs",
+              "RelativeToolTip": "Backend\\Migrations\\20260309064259_UpdateAccountProfileTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T06:42:59.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Frontend\\Program.cs",
+              "ToolTip": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\Program.cs",
+              "RelativeToolTip": "..\\Frontend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T14:29:39.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Accounts.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\ClassLib\\Entities\\Accounts.cs",
+              "RelativeDocumentMoniker": "..\\ClassLib\\Entities\\Accounts.cs",
+              "ToolTip": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\ClassLib\\Entities\\Accounts.cs",
+              "RelativeToolTip": "..\\ClassLib\\Entities\\Accounts.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwvy0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T03:01:53.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "RegisterHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Backend\\Backend\\Services\\RegisterHandler.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\RegisterHandler.cs",
+              "ToolTip": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Backend\\Backend\\Services\\RegisterHandler.cs",
+              "RelativeToolTip": "Backend\\Services\\RegisterHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T14:51:01.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\Frontend\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "..\\Frontend\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAmwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-06T07:07:06.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\Views\\Register\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\Frontend\\Views\\Register\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\Views\\Register\\Index.cshtml",
+              "RelativeToolTip": "..\\Frontend\\Views\\Register\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-05T04:58:41.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ProfileViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\Models\\ProfileViewModel.cs",
+              "RelativeDocumentMoniker": "..\\Frontend\\Models\\ProfileViewModel.cs",
+              "ToolTip": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\Models\\ProfileViewModel.cs",
+              "RelativeToolTip": "..\\Frontend\\Models\\ProfileViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T04:16:11.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BaseEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\ClassLib\\Enum\\BaseEnum.cs",
+              "RelativeDocumentMoniker": "..\\ClassLib\\Enum\\BaseEnum.cs",
+              "ToolTip": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\ClassLib\\Enum\\BaseEnum.cs",
+              "RelativeToolTip": "..\\ClassLib\\Enum\\BaseEnum.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T04:29:09.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "..\\Frontend\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "..\\Frontend\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-09T02:52:05.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20260309030531_AddAccountProfileTable.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Backend\\Backend\\Migrations\\20260309030531_AddAccountProfileTable.cs",
+              "RelativeDocumentMoniker": "Backend\\Migrations\\20260309030531_AddAccountProfileTable.cs",
+              "ToolTip": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Backend\\Backend\\Migrations\\20260309030531_AddAccountProfileTable.cs",
+              "RelativeToolTip": "Backend\\Migrations\\20260309030531_AddAccountProfileTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T03:05:31.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20260303162910_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Backend\\Backend\\Migrations\\20260303162910_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Backend\\Migrations\\20260303162910_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Backend\\Backend\\Migrations\\20260303162910_InitialCreate.cs",
+              "RelativeToolTip": "Backend\\Migrations\\20260303162910_InitialCreate.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAUwDEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T16:29:10.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoginInfomations.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\ClassLib\\Entities\\LoginInfomations.cs",
+              "RelativeDocumentMoniker": "..\\ClassLib\\Entities\\LoginInfomations.cs",
+              "ToolTip": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\ClassLib\\Entities\\LoginInfomations.cs",
+              "RelativeToolTip": "..\\ClassLib\\Entities\\LoginInfomations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T07:10:08.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\Frontend\\appsettings.json",
+              "ToolTip": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\appsettings.json",
+              "RelativeToolTip": "..\\Frontend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-06T14:50:31.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RegistrationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\ClassLib\\Model\\Comm\\Register\\RegistrationRequest.cs",
+              "RelativeDocumentMoniker": "..\\ClassLib\\Model\\Comm\\Register\\RegistrationRequest.cs",
+              "ToolTip": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\ClassLib\\Model\\Comm\\Register\\RegistrationRequest.cs",
+              "RelativeToolTip": "..\\ClassLib\\Model\\Comm\\Register\\RegistrationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T12:07:32.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "BaseHadler.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Backend\\Backend\\Services\\BaseHadler.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\BaseHadler.cs",
+              "ToolTip": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Backend\\Backend\\Services\\BaseHadler.cs",
+              "RelativeToolTip": "Backend\\Services\\BaseHadler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T13:33:19.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Backend\\Backend\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Backend\\Backend\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T12:44:32.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Backend.http",
+              "DocumentMoniker": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Backend\\Backend\\Backend.http",
+              "RelativeDocumentMoniker": "Backend\\Backend.http",
+              "ToolTip": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Backend\\Backend\\Backend.http",
+              "RelativeToolTip": "Backend\\Backend.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-03-05T07:45:49.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "..\\Frontend\\Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Frontend\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "..\\Frontend\\Models\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T06:56:43.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Backend\\Backend\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Backend\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Backend\\Backend\\WeatherForecast.cs",
+              "RelativeToolTip": "Backend\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T05:10:30.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Backend\\Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "Backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\Personal\\OneDrive\\Desktop\\Tests\\Pattareeya_ThaiBev_Test\\TestResult\\Backend\\Backend\\appsettings.json",
+              "RelativeToolTip": "Backend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-03T15:05:22.183Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

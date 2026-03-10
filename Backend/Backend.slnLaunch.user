@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "Runn All - Back and Front",
+    "Projects": [
+      {
+        "Path": "Backend\\Backend.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "..\\Frontend\\Frontend.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      }
+    ]
+  }
+]

@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../ClassLib/ClassLib.csproj" />
+  <Project Path="../Frontend/Frontend.csproj" />
+  <Project Path="Backend/Backend.csproj" />
+</Solution>

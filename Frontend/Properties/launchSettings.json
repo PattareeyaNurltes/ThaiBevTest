@@ -1,0 +1,37 @@
+﻿{
+  "$schema": "https://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "http": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "applicationUrl": "http://localhost:5121",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "BASE_API": "http://localhost:5203",
+        "APP_SECRET_KEY": "cGF0dGFyZWV5YV9zdXBlcl9zZWNyZXRfa2V5XzIwMjZfdmVyeV9zZWN1cmU",
+        "JWT_KEY": "cGF0dGFyZWV5YV9zdXBlcl9zZWNyZXRfa2V5XzIwMjZfdmVyeV9zZWN1cmU",
+        "JWT_ISSUER": "PattareeyaAuthServer",
+        "JWT_AUDIENCE": "PattareeyaApiClient",
+        "JWT_ACCESS_MINUTES": "15",
+        "JWT_REFRESH_DAYS": "7"
+      }
+    },
+    "https": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "applicationUrl": "https://localhost:7248;http://localhost:5121",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "BASE_API": "http://localhost:5203",
+        "APP_SECRET_KEY": "cGF0dGFyZWV5YV9zdXBlcl9zZWNyZXRfa2V5XzIwMjZfdmVyeV9zZWN1cmU",
+        "JWT_KEY": "cGF0dGFyZWV5YV9zdXBlcl9zZWNyZXRfa2V5XzIwMjZfdmVyeV9zZWN1cmU",
+        "JWT_ISSUER": "PattareeyaAuthServer",
+        "JWT_AUDIENCE": "PattareeyaApiClient",
+        "JWT_ACCESS_MINUTES": "15",
+        "JWT_REFRESH_DAYS": "7"
+      }
+    }
+  }
+}
